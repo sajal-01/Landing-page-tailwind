@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ![Screenshot](screenshot.png)
+=======
+
+![Alt text](./public/Screensort.png)
+
+>>>>>>> 32f4cd7561036b0cb0d247c094013b5f2b228829
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
