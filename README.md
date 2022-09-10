@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+=======
+HOMEPAGE
+
 ![Screenshot](Screenshot.png)
 =======
 
